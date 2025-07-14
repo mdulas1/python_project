@@ -1,0 +1,5 @@
+{
+  "ABC123": { "owner": "John Doe", "balance": 500.0 },
+  "XYZ789": { "owner": "Jane Smith", "balance": 300.0 },
+  "LMN456": { "owner": "Ali Omar", "balance": 1000.0 }
+}

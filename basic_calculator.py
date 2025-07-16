@@ -39,7 +39,7 @@ print("enter two number to divide")
 first_number =  input("first number:")
 
 second_number =  input("second number:")
-div = float( first_number) / float(second_number)
+div = float( first_number) // float(second_number)
 print(f"{first_number} + {second_number}: = {div}")
 
 print("***********************")
